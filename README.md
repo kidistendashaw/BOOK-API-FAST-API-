@@ -8,3 +8,4 @@ A simple REST API built with FastAPI.
 - POST /books?title=&author= → Add new book
 - PUT /books/{book_id}?title=&author= → Update book
 - DELETE /books/{book_id} → Delete book
+
